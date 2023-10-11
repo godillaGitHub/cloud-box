@@ -1,0 +1,4 @@
+# Project exclude paths
+/cloud-box-client/target/
+/cloud-box-common/target/
+/cloud-box-server/target/
